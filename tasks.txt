@@ -1,0 +1,11 @@
+admin, Register Users with task_manager.py, Use task_manager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use task_manager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+thami, manager, use task_manager.py to assign new team members, 02 oct 2023, 02 oct 2023, No
+mandla zwane, head editor, carry-out client's demands to finish project., 04 october 2023, 04 october 2023, no
+nthabiseng makwe, junior editor, choose selects and make cuts. prep project for head editor., 03 october 2023, 03 october 2023, no
+thando mbatha, seo strategist, seo rankings articles/website/short-form content, 05 october 2023, 06 october 2023, no
+waterboi rooi, mediator, handle communication within company structures to the client, 17 october 2023, 17 october 2023, no
+tremendous njika, post-pro. mediator, handling of post-pro work with client, 17 october 2023, 17 october 2023, no
+adm1n, whatsapp group manager, enforces whatsapp group terms and conditions, 17 october 2023, 17 october 2023, no
+wednesday mooi, coffee maker, supply coffee, 17 october 2023, 17 october 2023, no
+wothi sthamzin, time keep, to make sure production team adheres to production times, 25 october 2023, 25 october 2023, no
